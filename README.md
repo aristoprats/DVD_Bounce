@@ -6,7 +6,7 @@ Team members: Prats Mathur
 * [Project Status](#project-status)
 * [Project Purpose](#project-purpose)
 * [Project Constraints](#project-constraints)
-* [Technologies Used](#tech-used)
+* [Technologies Used](#technologies-used)
 * [Cited Sources](#cited-sources)
 * [Setup](#setup)
 
